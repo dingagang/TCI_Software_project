@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9133e04-e15f-41d8-8c4d-d2481a552cae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W1XQJC0K7cWKcBNVSSxwzdiYab" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="casino" />
+      <recent name="casino.gamingmachine" />
+      <recent name="casino.game" />
+      <recent name="casino.cashier" />
+      <recent name="bettingauthoritiyAPI" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="casino.game" />
+      <recent name="casino" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9133e04-e15f-41d8-8c4d-d2481a552cae" name="Default Changelist" comment="" />
+      <created>1578318056345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578318056345</updated>
+      <workItem from="1578318061798" duration="2665000" />
+      <workItem from="1579522145483" duration="29000" />
+      <workItem from="1579522436113" duration="49000" />
+      <workItem from="1580829306544" duration="3548000" />
+      <workItem from="1580992151283" duration="803000" />
+      <workItem from="1581003026325" duration="690000" />
+      <workItem from="1581004247135" duration="1384000" />
+      <workItem from="1581320969559" duration="357000" />
+      <workItem from="1583503713565" duration="6432000" />
+      <workItem from="1583677953689" duration="18179000" />
+      <workItem from="1583781767439" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="652" key="#com.intellij.ide.util.MemberChooser" timestamp="1583699697928">
+      <screen x="0" y="0" width="1200" height="1890" />
+    </state>
+    <state x="405" y="652" key="#com.intellij.ide.util.MemberChooser/0.0.1200.1890/1200.523.1920.1050@0.0.1200.1890" timestamp="1583699697928" />
+    <state x="155" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583698601904">
+      <screen x="0" y="0" width="1200" height="1890" />
+    </state>
+    <state x="155" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1200.1890/1200.523.1920.1050@0.0.1200.1890" timestamp="1583698601904" />
+    <state x="330" y="695" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583700677127">
+      <screen x="0" y="0" width="1200" height="1890" />
+    </state>
+    <state x="330" y="695" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1200.1890/1200.523.1920.1050@0.0.1200.1890" timestamp="1583700677127" />
+  </component>
+</project>
